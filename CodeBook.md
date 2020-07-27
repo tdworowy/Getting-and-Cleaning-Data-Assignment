@@ -1,4 +1,4 @@
-### Description of the variables from 'tidy.csv'
+### Description of the variables from 'tidy.csv (same for tidy.txt)'
  
 The following table describes all variables of the 'tidy.csv' data set. 
  
